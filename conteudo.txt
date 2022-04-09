@@ -1,0 +1,6 @@
+Conteúdo do curso
+
+Introdução a NLP
+Transição de Seguigmentos de Setenças
+Lematizaçào
+Análise de Sentimentos com NLTK
